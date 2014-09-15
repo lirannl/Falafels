@@ -1,4 +1,4 @@
-falafels
+pitas
 ========
 
-My first mod with a real goal
+Adds upgradable pitas.
